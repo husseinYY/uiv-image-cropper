@@ -1,0 +1,17 @@
+{
+  "name": "uiv-image-cropper",
+  "version": "1.0.0",
+  "description": "Simple no dependency image cropping & rotation tool.",
+  "main": "cropper.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husseinYY/uiv-image-cropper.git"
+  },
+  "keywords": [
+    "image",
+    "cropping",
+    "rotation"
+  ],
+  "author": "Hussein Al-Mosawi (https://github.com/husseinYY)",
+  "license": "MIT"
+}
